@@ -1,7 +1,7 @@
 # Site settings
 title: shmily's blog
 SEOTitle: 史米粒的博客 | Shmily Blog
-header-img: img/testtestpage.jpg
+header-img: img/testpage.jpg
 email: hulingxuan01@163.com
 description: "Every failure is leading towards success."
 keyword: "k8s, blockchain, golang, java, 面试, docker"
