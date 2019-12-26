@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      kubernetes
+title:      分层namespace控制器的设计文档
 subtitle:   多租户
 date:       2019-12-26
 author:     shmily
