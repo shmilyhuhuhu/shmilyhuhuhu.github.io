@@ -22,6 +22,9 @@ RSS: false
 github_username:    shmilyhuhuhu
 #twitter_username:   qiubaiying
 
+# Featured Tags
+featured-tags: true  
+featured-condition-size: 1     # A tag will be featured if the size of it is more than this condition value
 
 
 
